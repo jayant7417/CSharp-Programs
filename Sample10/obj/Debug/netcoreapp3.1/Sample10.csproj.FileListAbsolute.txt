@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\bin\Debug\netcoreapp3.1\Sample10.exe
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\bin\Debug\netcoreapp3.1\Sample10.deps.json
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\bin\Debug\netcoreapp3.1\Sample10.runtimeconfig.json
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\bin\Debug\netcoreapp3.1\Sample10.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\bin\Debug\netcoreapp3.1\Sample10.dll
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\bin\Debug\netcoreapp3.1\Sample10.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\obj\Debug\netcoreapp3.1\Sample10.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\obj\Debug\netcoreapp3.1\Sample10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\obj\Debug\netcoreapp3.1\Sample10.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\obj\Debug\netcoreapp3.1\Sample10.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\obj\Debug\netcoreapp3.1\Sample10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\obj\Debug\netcoreapp3.1\Sample10.dll
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\obj\Debug\netcoreapp3.1\Sample10.pdb
+C:\Users\Admin\Documents\Visual C# Programs\Sample10\obj\Debug\netcoreapp3.1\Sample10.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+﻿@using StudentRecords.Models
+@model IEnumerable<StudentRecords.Models.Class1>
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Details</h2>
+
+@foreach (var item in Model)
+{
+    <br />
+    using (Html.BeginForm("Index", "Home"))
+    {
+        <h2>Student Id : @item.Id</h2>
+        <br />
+        <br />
+        @Html.Hidden("id", item.Id)
+        <span>Student Name : </span>@Html.TextBox("name", item.StudentName)
+        <br />
+        <br />
+        <span>Student Course : </span>@Html.TextBox("course", item.StudentCourse)
+        <input type="submit" value="Save" />
+    }
+    <br />
+}
+
+<button>@Html.RouteLink("Back", "Index")</button>
+

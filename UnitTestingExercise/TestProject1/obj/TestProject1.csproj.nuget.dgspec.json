@@ -1,0 +1,121 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\Exercise02\\Exercise02.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\Exercise02\\Exercise02.csproj",
+        "projectName": "Exercise02",
+        "projectPath": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\Exercise02\\Exercise02.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestApp\\TestApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestApp\\TestApp.csproj",
+        "projectName": "TestApp",
+        "projectPath": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestApp\\TestApp.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\Exercise02\\Exercise02.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\Exercise02\\Exercise02.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\Exercise02\\Exercise02.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\Exercise02\\Exercise02.csproj"
+              },
+              "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestApp\\TestApp.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Documents\\source\\repos\\UnitTestingExercise\\TestApp\\TestApp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

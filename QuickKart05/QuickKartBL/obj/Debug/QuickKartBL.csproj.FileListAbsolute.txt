@@ -1,0 +1,30 @@
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Method Overloading\Full Solution\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Method Overloading\Full Solution\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Method Overloading\Full Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Method Overloading\Full Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Method Overloading\Full Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Method Overloading\Full Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\Testing\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\Testing\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\Testing\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\Testing\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\Testing\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\Testing\CSharp Course\Params\Complete Solution\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart05\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart05\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart05\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart05\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart05\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart05\QuickKartBL\obj\Debug\QuickKartBL.pdb

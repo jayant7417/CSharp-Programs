@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\CRUD Linq\bin\Debug\CRUD Linq.exe.config
+C:\Users\Admin\source\repos\CRUD Linq\bin\Debug\CRUD Linq.exe
+C:\Users\Admin\source\repos\CRUD Linq\bin\Debug\CRUD Linq.pdb
+C:\Users\Admin\source\repos\CRUD Linq\obj\Debug\CRUD Linq.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CRUD Linq\obj\Debug\CRUD_Linq.Form1.resources
+C:\Users\Admin\source\repos\CRUD Linq\obj\Debug\CRUD_Linq.Properties.Resources.resources
+C:\Users\Admin\source\repos\CRUD Linq\obj\Debug\CRUD Linq.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CRUD Linq\obj\Debug\CRUD Linq.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CRUD Linq\obj\Debug\CRUD Linq.exe
+C:\Users\Admin\source\repos\CRUD Linq\obj\Debug\CRUD Linq.pdb

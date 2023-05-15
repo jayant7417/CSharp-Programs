@@ -1,0 +1,68 @@
+﻿@using WebApplication2.Models
+
+@model IEnumerable<WebApplication2.Models.Class1>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Contact</title>
+    <style>
+        .Aa{
+            font-family:'Times New Roman', Times, serif;
+            font-size: 20px;
+        }
+        .Aa1 {
+            margin-left: 25px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>View Model</h1>
+
+        @foreach (var item in Model)
+        {
+            <span>Student Id : </span>@Html.TextBox("StudentId", item.Id)<br /><br />
+        }
+
+        @foreach (var item in Model)
+        {
+            <span>Student Name : </span>@Html.TextBox("StudentName", item.name)<br /><br />
+        }
+
+        @foreach (var item in Model)
+        {
+            <span>Student Course : </span>@Html.TextBox("StudentCourse", item.course)<br /><br />
+        }
+
+        <span class="Aa">Student ID : </span>
+
+        <select class="Aa">
+            @foreach (var item in Model)
+            {
+                <option value="@item.Id">@item.Id</option>
+            }
+        </select>
+        <span class="Aa Aa1">Student Name : </span>
+        <select class="Aa">
+            @foreach (var item in Model)
+            {
+                <option value="@item.name">@item.name</option>
+            }
+        </select>
+
+        <span class="Aa Aa1">Course : </span>
+        <select class="Aa">
+            @foreach (var item in Model)
+            {
+                <option value="@item.course">@item.course</option>
+            }
+        </select>
+    </div>
+
+    <h3>@TempData["data"]</h3>
+</body>
+</html>

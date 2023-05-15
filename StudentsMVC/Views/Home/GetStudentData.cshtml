@@ -1,0 +1,23 @@
+﻿@model IEnumerable<StudentsMVC.Models.Student>
+
+@{
+    ViewBag.Title = "GetStudentData";
+}
+
+<h2>Student Details</h2>
+<table style="font-family: Arial" border="2">
+    <tr>
+        <th>Student Id</th>
+        <th>Student Name</th>
+        <th>City</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>@item.Id</td>
+    <td>@item.Name</td>
+    <td>@item.City</td>
+</tr>
+    }
+</table>
+

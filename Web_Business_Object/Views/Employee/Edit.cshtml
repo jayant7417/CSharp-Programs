@@ -1,0 +1,111 @@
+﻿@model Business_Layer.Employee
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Details</h2>
+<div class="dt">
+    @using (Html.BeginForm("Edit", "Employee", FormMethod.Post, new { enctype = "multipart/form-data", id= "friendform" }))
+    {
+        @Html.ValidationSummary(true)
+
+        if (Model != null)
+        {
+            <fieldset>
+                <legend>Employee Details</legend>
+                <div>
+                    @if (!String.IsNullOrEmpty(Model.ImagePath))
+                    {
+                        <img id="profileImage" src="@Url.Content(Model.ImagePath)" width="250" height="250" alt="Profile Pic" style="position:center; text-align:right" />
+                    }
+                    else
+                    {
+
+                    }
+                </div><br />
+                <input name="ID" id="ID" type="text" value="@Model.ID" hidden/>
+                <div class="editor-label">@Html.LabelFor(model => model.Name)</div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.Name)
+                    @Html.ValidationMessageFor(model => model.Name)
+                </div><br />
+                <div class="editor-label">@Html.LabelFor(model => model.Gender)</div>
+                <div class="editor-field">
+                    @Html.DropDownList("Gender", new List<SelectListItem> {
+                   new SelectListItem{Text = "Male", Value="Male"},
+                   new SelectListItem{Text = "Female", Value="Female"}
+               }, "Select Gender")
+                    @Html.ValidationMessageFor(model => model.Gender)
+                </div><br />
+                <div class="editor-label">@Html.LabelFor(model => model.City)</div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.City)
+                    @Html.ValidationMessageFor(model => model.City)
+                </div><br />
+                <div class="editor-label">@Html.LabelFor(model => model.DateOfBirth)</div>
+                <div class="editor-field">
+                    @Html.EditorFor(model => model.DateOfBirth)
+                    @Html.ValidationMessageFor(model => model.DateOfBirth)
+                </div><br />
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.ProfilePic)
+                    <div class="editor-field">
+                        <input name="ProfilePic" id="ProfilePic" type="file" accept=".jpeg, .jpg, .png" />
+                        
+                        <a href="javascript:void(0)" id="uploadimage">Upload Image</a>
+
+                    </div>
+                </div>
+                <p>
+                    <input type="submit" value="Save Details" />
+                </p>
+            </fieldset>
+        }
+    }
+
+    <br />
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function () {
+        $("#uploadimage").click(function () {
+            debugger
+
+            //var data = $('#friendform').serialize();
+            var formData = new FormData();
+            var file = document.getElementById("ProfilePic").files[0];
+            formData.append("ProfilePic", file);
+            var id = $('#ID').val();
+            formData.append("ID", id);
+            //const obj = { id: $("#ID").val(), file: file };
+            //const d = JSON.stringify(obj);
+            debugger
+            $.ajax({
+                url: "/Employee/UploadFiles",
+                data: formData,
+                type: "POST",
+                processData: false,
+                contentType: false,
+                dataType: "JSON",
+                success: function (result) {
+                    debugger
+                    if (result) {
+                        $('#profileImage').attr('src', result);
+                    }
+                },
+                error: function (errormessage) {
+                    alert('Something went wrong, Please try again later!');
+                }
+            });
+
+            setTimeout(() => {
+                location.reload();
+            }, 1000);
+
+        })
+    })
+</script>

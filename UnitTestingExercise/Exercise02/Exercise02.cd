@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Exercise02.Category">
+    <Position X="4.75" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercise02.Customer">
+    <Position X="0.75" Y="0.5" Width="9.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAgAAgAAAAAIgAEAAAAAQAgIAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercise02.ProductInventory">
+    <Position X="0.75" Y="4" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>ProductInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercise02.Purchase">
+    <Position X="0.5" Y="6.25" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAFQACAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Purchase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercise02.Seller">
+    <Position X="8.25" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercise02.Product">
+    <Position X="8.25" Y="6.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAABABAAAAAAAAAAIAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

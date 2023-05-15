@@ -1,0 +1,30 @@
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+D:\Videos\CSharp\Demos\Nehaa\For_Demo\4. Abstract\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Abstract\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Abstract\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Abstract\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Type casting of references\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Type casting of references\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Type casting of references\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Type casting of references\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Type casting of references\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Type casting of references\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart14\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart14\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart14\QuickKartBL\obj\Debug\QuickKartBL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart14\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart14\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\Admin\Documents\Visual C# Programs\QuickKart14\QuickKartBL\obj\Debug\QuickKartBL.pdb

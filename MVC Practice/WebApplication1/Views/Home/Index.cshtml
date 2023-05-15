@@ -1,0 +1,60 @@
+﻿@using WebApplication1.Models;
+@{
+    ViewBag.Title = "Index";
+    ViewBag.Message = "This is View to View Data Passing";
+}
+<body>
+    <div>
+        <h1>View Bag</h1>
+        <h3>View to View</h3>
+        <p>@ViewBag.Message</p><br />
+
+        <h3>Controller to View</h3>
+        <p>@ViewBag.m1</p><br />
+
+        <span style="font-size: 24px; font-family:'Times New Roman';">Student Details : </span><select style="font-size: 24px; font-family:'Times New Roman'; padding:inherit">
+            <option value="@ViewBag.Id">@ViewBag.Id</option>
+            <option value="@ViewBag.name">@ViewBag.name</option>
+            <option value="@ViewBag.course">@ViewBag.course</option>
+        </select><br /><br />
+    </div>
+
+    <div>
+        <h1>View Data</h1>
+        Student Id : <select>
+            @foreach (var item in (List<Demo>)ViewData["Students"])
+            {
+                <option>
+                    @item.Id
+                </option>
+            }
+        </select>
+
+        <h3>Passing Data ViewData to ViewBag</h3>
+        Student Name : <select>
+            @foreach (var item in (List<Demo>)ViewBag.Students)
+            {
+                <option>
+                    @item.name
+                </option>
+            }
+        </select>
+
+        <h3>Passing Data ViewBag to ViewData</h3>
+        Student Name : <select>
+            @foreach (var item in (List<Demo>)ViewData["Students"])
+            {
+                <option>
+                    @item.course
+                </option>
+            }
+        </select><br /><br />
+    </div>
+
+    @Html.RouteLink("About Us", "page"):
+
+    <a href="/Home/Page1">About Us</a>
+
+</body>
+
+

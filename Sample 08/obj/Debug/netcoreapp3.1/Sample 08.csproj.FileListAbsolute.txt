@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Visual C# Programs\Sample 08\obj\Debug\netcoreapp3.1\Sample 08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Visual C# Programs\Sample 08\obj\Debug\netcoreapp3.1\Sample 08.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual C# Programs\Sample 08\obj\Debug\netcoreapp3.1\Sample 08.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual C# Programs\Sample 08\obj\Debug\netcoreapp3.1\Sample 08.csproj.CoreCompileInputs.cache

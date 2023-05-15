@@ -1,0 +1,39 @@
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\jaimol.sadasivan\source\repos\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+D:\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.dll
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\bin\Debug\QuickKartBL.pdb
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csprojAssemblyReference.cache
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CopyComplete
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+D:\D Data\C# videos\V2\Debugging\QuickKart\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\obj\Debug\QuickKartTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\obj\Debug\QuickKartTestApp.exe
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\obj\Debug\QuickKartTestApp.pdb
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.config
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\bin\Debug\QuickKartTestApp.pdb
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.CodeAnalysisLog.xml
+C:\Users\Admin\Documents\source\repos\QuickKart-Code Analysis\QuickKartTestApp\bin\Debug\QuickKartTestApp.exe.lastcodeanalysissucceeded

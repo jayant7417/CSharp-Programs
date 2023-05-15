@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\source\repos\Sample 05\bin\Debug\Sample 05.exe.config
+C:\Users\Admin\Documents\source\repos\Sample 05\bin\Debug\Sample 05.exe
+C:\Users\Admin\Documents\source\repos\Sample 05\bin\Debug\Sample 05.pdb
+C:\Users\Admin\Documents\source\repos\Sample 05\obj\Debug\Sample 05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\source\repos\Sample 05\obj\Debug\Sample 05.exe
+C:\Users\Admin\Documents\source\repos\Sample 05\obj\Debug\Sample 05.pdb
+C:\Users\Admin\Documents\source\repos\Sample 05\obj\Debug\Sample 05.csproj.AssemblyReference.cache

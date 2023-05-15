@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "Countries List";
+}
+
+<h2>Countries List Using View Bag</h2>
+<ul>
+    @foreach (var item in ViewBag.CountriesList)
+    {
+        <li>@item</li>
+    }
+</ul>
+
+<h2>Countries List Using View Data</h2>
+<ul>
+    @foreach (var item in (List<string>)ViewData["Countries"])
+    {
+        <li>@item</li>
+    }
+</ul>
+
+
+<select id="ddlDepartment" name="Department">
+</select>
+
+<button id="btnload">Load value</button>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+        </tr>
+    </thead>
+    <tbody id="mydata"></tbody>
+</table>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        //load department
+            $.ajax({
+                type: 'GET',
+                url: '/Department/GetDepartment',
+                dataType: 'json',
+                data: { id: '' },
+                success: function (data) {
+                    for (var i = 0; i < data.length; i++) {
+                        var option = '<option value="' + data[i].ID + '">' + data[i].Name + '</option>';
+                        $("#ddlDepartment").append(option);
+                    }
+                },
+                error: function (ex) {
+                    var r = jQuery.parseJSON(response.responseText);
+                    alert("Message: " + r.Message);
+                    alert("StackTrace: " + r.StackTrace);
+                    alert("ExceptionType: " + r.ExceptionType);
+                }
+            });
+
+        $("#btnload").click(function () {
+            $("#mydata").empty();
+            var departmentId = $("#ddlDepartment").val();
+            loaddata(departmentId);
+        })
+
+        function loaddata(value) {
+            debugger
+            $.ajax({
+                type: 'GET',
+                url: '/Home/GetEmployeeData',
+                dataType: 'json',
+                data: { departmentId: value },
+                success: function (data) {
+                    for (var i = 0; i < data.length; i++) {
+                        var row = '<tr><td>' + data[i].Name + '</td><td>' + data[i].City + '</td></tr>';
+                        $("#mydata").append(row);
+                    }
+                },
+                error: function (ex) {
+                    var r = jQuery.parseJSON(response.responseText);
+                    alert("Message: " + r.Message);
+                    alert("StackTrace: " + r.StackTrace);
+                    alert("ExceptionType: " + r.ExceptionType);
+                }
+            });
+        }
+    })
+</script>

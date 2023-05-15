@@ -1,0 +1,12 @@
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Static\Solution to be provided\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Static\Solution to be provided\QuickKart\QuickKartBL\bin\Debug\QuickKartBL.pdb
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Static\Solution to be provided\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csprojAssemblyReference.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Static\Solution to be provided\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.csproj.CoreCompileInputs.cache
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Static\Solution to be provided\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.dll
+C:\Users\anusha.laxmeshwar\Desktop\CSharp Course\Static\Solution to be provided\QuickKart\QuickKartBL\obj\Debug\QuickKartBL.pdb
